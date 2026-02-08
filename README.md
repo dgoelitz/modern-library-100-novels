@@ -6,4 +6,4 @@ sort them, and mark which ones you've read.
 ## Run
 node index.js
 
-<img width="601" height="357" alt="The CLI in action in the terminal!" src="https://github.com/user-attachments/assets/3e32b224-00ed-462b-9d2a-c06e5b36991d" />
+<img width="604" height="360" alt="The CLI in action in the terminal!" src="https://github.com/user-attachments/assets/39dbcec2-cce1-4e50-bf6f-a37727290dcf" />
